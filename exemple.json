@@ -1,0 +1,33 @@
+[
+    {
+        "fr": [
+            "Accueil",
+            "Categorie",
+            "Liste"
+        ],
+        "de": [
+            "Willkommen",
+            "Kategorien",
+            "Liste"
+        ],
+        "zh": [
+            "Huānyíng",
+            "Lèibié",
+            "Lièbiǎo"
+        ],
+        "languages" : [
+            {
+                "nom" : "Francais",
+                "code" : "fr"
+            },
+            {
+                "nom" : "Allemand",
+                "code" : "de"
+            },
+            {
+                "nom" : "Chinois",
+                "code" : "zh"
+            }
+        ]
+    }
+]
